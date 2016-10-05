@@ -1,0 +1,6 @@
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystem\FilmRecommendedSystem\obj\Debug\FilmRecommendedSystem.csprojResolveAssemblyReference.cache
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystem\FilmRecommendedSystem\bin\Debug\FilmRecommendedSystem.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystem\FilmRecommendedSystem\bin\Debug\FilmRecommendedSystem.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystem\FilmRecommendedSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystem\FilmRecommendedSystem\obj\Debug\FilmRecommendedSystem.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystem\FilmRecommendedSystem\obj\Debug\FilmRecommendedSystem.pdb
