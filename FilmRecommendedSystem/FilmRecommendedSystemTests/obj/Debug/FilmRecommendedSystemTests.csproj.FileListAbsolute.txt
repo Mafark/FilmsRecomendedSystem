@@ -7,3 +7,12 @@ C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystem\FilmReco
 C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystem\FilmRecommendedSystemTests\bin\Debug\FilmRecommendedSystem.pdb
 C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystem\FilmRecommendedSystemTests\obj\Debug\FilmRecommendedSystemTests.dll
 C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystem\FilmRecommendedSystemTests\obj\Debug\FilmRecommendedSystemTests.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystemCopy2\FilmRecommendedSystemTests\obj\Debug\FilmRecommendedSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystemCopy2\FilmRecommendedSystemTests\obj\Debug\FilmRecommendedSystemTests.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystemCopy2\FilmRecommendedSystemTests\obj\Debug\FilmRecommendedSystemTests.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystemCopy2\FilmRecommendedSystemTests\bin\Debug\FilmRecommendedSystemTests.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystemCopy2\FilmRecommendedSystemTests\bin\Debug\FilmRecommendedSystemTests.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystemCopy2\FilmRecommendedSystemTests\bin\Debug\FilmRecommendedSystem.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystemCopy2\FilmRecommendedSystemTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystemCopy2\FilmRecommendedSystemTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson2\FilmRecommendedSystemCopy2\FilmRecommendedSystemTests\bin\Debug\FilmRecommendedSystem.pdb

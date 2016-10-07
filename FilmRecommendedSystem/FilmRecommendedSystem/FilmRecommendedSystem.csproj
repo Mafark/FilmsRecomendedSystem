@@ -43,9 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AverageRating.cs" />
+    <Compile Include="AverageRatingByGenre.cs" />
     <Compile Include="FIleEditor.cs" />
+    <Compile Include="FilmAdder.cs" />
+    <Compile Include="IAverageRating.cs" />
+    <Compile Include="IAverageRatingByGenre.cs" />
+    <Compile Include="IFilmAdder.cs" />
+    <Compile Include="IRegister.cs" />
+    <Compile Include="ISearcherUsersWatchedSameFilms.cs" />
+    <Compile Include="IListFilms.cs" />
+    <Compile Include="ListFilms.cs" />
     <Compile Include="RecommendedFilmSystem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs" />
+    <Compile Include="Searcher.cs" />
+    <Compile Include="SearcherUsersWatchedSameFilms.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

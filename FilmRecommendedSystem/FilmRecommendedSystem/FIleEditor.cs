@@ -4,14 +4,16 @@ using System.IO;
 
 namespace FilmRecommendedSystem
 {
-    class FIleEditor
+    public class FIleEditor
     {
         public static List<User> LoadData()
         {
             List<User> users = new List<User>();
             if (!File.Exists("users.json")) File.Create("users.json");
             users = JsonConvert.DeserializeObject<List<User>>(File.ReadAllText("users.json"));
-            return users;
+            if (users != null)
+                return users;
+            else return new List<User>();
         }
 
         public static void SaveData(List<User> users)
