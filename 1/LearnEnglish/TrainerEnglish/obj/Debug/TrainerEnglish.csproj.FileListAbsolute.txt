@@ -1,0 +1,6 @@
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson3\LearnEnglish\TrainerEnglish\bin\Debug\TrainerEnglish.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson3\LearnEnglish\TrainerEnglish\bin\Debug\TrainerEnglish.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson3\LearnEnglish\TrainerEnglish\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson3\LearnEnglish\TrainerEnglish\obj\Debug\TrainerEnglish.csprojResolveAssemblyReference.cache
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson3\LearnEnglish\TrainerEnglish\obj\Debug\TrainerEnglish.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson3\LearnEnglish\TrainerEnglish\obj\Debug\TrainerEnglish.pdb
